@@ -1,0 +1,10 @@
+2026-10-12 05:46:05.518 +02:00 [INF] Now listening on: http://localhost:5233
+2026-10-12 05:46:05.565 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-12 05:46:05.566 +02:00 [INF] Hosting environment: Development
+2026-10-12 05:46:05.566 +02:00 [INF] Content root path: /home/jovan/Documents/projects/CSharpBasics/OsnoveCSharp9-Logging1/OsnoveCSharp9-Logging1
+2026-10-12 05:46:08.412 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5233/ - null null
+2026-10-12 05:46:08.453 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5233/ - 404 0 null 43.2683ms
+2026-10-12 05:46:08.458 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5233/, Response status code: 404
+2026-10-12 05:46:11.989 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5233/ - null null
+2026-10-12 05:46:11.990 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5233/ - 404 0 null 1.9107ms
+2026-10-12 05:46:11.991 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5233/, Response status code: 404
